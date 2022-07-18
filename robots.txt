@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://curic4t.github.io/sitemap.xml
